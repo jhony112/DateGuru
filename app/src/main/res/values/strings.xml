@@ -1,0 +1,812 @@
+<resources>
+    <string name="app_name">Date Guru</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="tab">\u0009</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sunIcons">
+        <item>@drawable/sunbg</item>
+        <item>@drawable/sun</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="Sunfactsname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="SunFacts">
+        <item>The Sun ( Number 1 )</item>
+        <item>The Sun ( Number 1 )</item>
+        <item> Creative, Ambitious, Leadership qualities,and Positive</item>
+        <!--Attribiutes -->
+        <item>Leo</item>
+        <!--Star sign Closest to -->
+        <item>Spending, Debts, Procrastination, Illness</item>
+        <!--Watch out for -->
+        <item>1st, 10th, 19th, or 28th of any month</item>
+        <!--lucky days -->
+        <item> Sunday and Monday</item>
+        <!--lucky day of the week -->
+        <item> Shiny objects and ornaments</item>
+        <!--Gifts -->
+        <item>Gold,yellows and bronze</item>
+        <!--Lucky colors -->
+        <item>Topaz, amber,yellow diamond</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="sun_array">
+        <item>The Day of the SUN</item>
+        <item>A person born on this day,\n
+            represents all that is creative,individual,and positive.\n
+            Has the underlying principle of being in his or her work.
+            definite in his or her views, and in consequence more
+            or less obstinate and determined\n in all they as individuals undertake.
+        </item>
+
+        <item>Persons born on this day,
+            are ambitious \n they dislike restraint,
+            they always rise in whatever
+            profession or occupation may be.\n #
+            They desire to become the heads of whatever their businesses are,
+            and as departmental chiefs they keep their authority and make
+            themselves respected and" looked up to" by their subordinates.\n
+            You need love and affection greatly,and you take your sex life seriously
+            and will be ‘hot stuff’ in the bedroom.\n #
+  Your choice of partner is likely to be influenced
+            by his or her achievements or social position.\n
+  You are very sincere in your feelings and expect the same in return.\n
+            You’ll look for a partner who supports your ambitions and
+            you usually have a lot of creative talent and you should develop
+            your ideas to their full potential.\n #
+            The areas of your body you need to take care of are:\n
+            your right eye,\n the gall bladder, \nspine and blood circulation.\n #
+            In work and career you should have better than average opportunities for success,
+            providing you recognise them.\n
+            Please don’t become a workaholic however as your marriage,
+            relationships and friendships will suffer.\n #
+            As you find more time on your hands,
+            consider spending your time and other resources either helping
+            disadvantaged children,the environment or animals.\n
+            If you do this you will be amazed at the rewards which may
+            come your way.#
+            Persons born on this day should endeavor to carry out
+            their most important plans and ideas on all days
+            that vibrate to their own number, such as on the 1st, 10th, 19th, or 28th of any month,
+            but especially from the 21st July to the 28th August,
+            and from the 21st March to the 28th April.#
+            The days of the week most fortunate for you are
+            Sunday and Monday,
+            and especially so if one of your own dates
+            should also fall on that day, such as the 1st, 10th, 19th, or 28th.
+ </item>
+
+        <item>The most fortunate colors for persons
+            born under this day are all shades of gold,
+            yellows and bronze to golden brown.#
+            Their lucky jewels are the topaz, amber,
+            yellow diamond and all stones of these colors.
+            If possible, they should wear a piece of amber next their flesh.</item>
+    </string-array>
+    <string-array name="moonIcons">
+        <item>@drawable/moon</item>
+        <item>@drawable/moonbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="moonfactsname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="mooonFacts">
+        <item>The Moon ( Number 2 )</item>
+        <item>The Moon( Number 2)</item>
+        <item>Incentive gentle by nature,sensitive,imaginative, artistic, and romantic</item>
+        <!--Attribiutes -->
+        <item>Cancer</item>
+        <!--Star sign Closest to -->
+        <item>  Restlessness,wild imagination,lack of continuity in plans
+		and ideas,and lack of self-confidence.</item>
+        <!--Watch out for -->
+        <item>  2nd,11th,20th,29th of an Month\n
+		(esp between 20th June and the 27th July)
+		</item>
+        <!--lucky days -->
+        <item>Sunday, Monday, and Friday</item>
+        <!--lucky day of the week -->
+        <item>Shiny objects and ornaments</item>
+        <!--Gifts -->
+        <item>Green,cream and white</item>
+        <!--Lucky colors -->
+        <item>Pearls,moonstones, pale green stones</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="moon_array">
+        <item>The Day of the Moon</item>
+        <item> \t Persons born on this day are gentle by nature,
+		imaginative, artistic, and romantic.
+		They are also inventive,
+		but they are not as forceful in carrying out their ideas.
+		Their qualities are more on the mental than the physical plane and they are seldom as
+		strong physically as those born \n under the House of the SUN.
+        </item>
+
+        <item>You are emotional, sentimental and compassionate \n
+		but being so sensitive you can easily
+		pick up the moods of others and your environment.\n
+		Although you are not aggressive you may at
+		times be confronted with aggressive people.
+		If so, respond with subtlety and shrewdness
+		as this is where your strengths lie.#
+		Often you sublimate your own ambitions into others
+		so take a look at your motives \n if you find yourself doing this.
+		You have a need for recognition and
+		if others do not appreciate your efforts
+		you will end up feeling rejected. #
+		You love your home and your family is important to you.
+		Do not take on their problems however as you will
+		end up feeling overwhelmed.#
+		You tend to be cautious by nature
+		and this can mean you can miss out
+		on opportunities if the ‘opportunity’
+		arrives in an unfamiliar form so one of your
+		lessons in this life is not to immediately
+		reject something because it looks unusual or
+		unconventional to you .#
+		During your life there may be a secret love affair
+		 if so try to be aware this comes
+		from an escapist tendency and deal
+		with problems head on in relationships #
+		Money and material things are important for your emotional security \n
+		but don’t let this get out of hand.
+		You need to concentrate on forming friendships outside of your
+		family otherwise you will get too caught up in family matters.#
+		Your life lesson is to learn from your past
+		but not to look back at it in either an
+		overly-sentimental way (‘things were perfect back then’)
+		or be melancholy about it (‘my life is a disaster’). #
+		Your long term future is bright and you will have the love of people
+		who feel like your family whether they are actual family or not!
+
+ </item>
+
+        <item>For" lucky" colors wear all
+		shades of green, from the darkest to the lightest,also cream and white,
+		but as far as possible avoid all dark colors,
+		especially black, purple, and dark red.#
+Lucky stones and jewels are pearls,
+moonstones, pale green stones,
+and they should carry a piece of jade always with them,
+ and, if possible, next to their skin/flesh.
+ </item>
+    </string-array>
+    <string-array name="jupiterIcons">
+        <item>@drawable/jupiter</item>
+        <item>@drawable/jupbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="jupiterfactsname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="jupiterFacts">
+        <item>Jupiter ( Number 3 )</item>
+        <item>Jupiter( Number 3)</item>
+        <item> Ambitious, optimistic, sympathetic, outgoing and inspirational</item>
+        <!--Attribiutes -->
+        <item>Sagittarius</item>
+        <!--Star sign Closest to -->
+        <item>Pride, relationships, boasting, overspending
+	</item>
+        <!--Watch out for -->
+        <item>3rd, 12th, 21st, and 30th of any month
+		</item>
+        <!--lucky days -->
+        <item>Thursday, Friday, and (*)Tuesday</item>
+        <!--lucky day of the week -->
+        <item>Exotic trips and tours</item>
+        <!--Gifts -->
+        <item>All shades of blue, crimson, and rose</item>
+        <!--Lucky colors -->
+        <item>amethyst</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="jupiter_array">
+        <item>The Day of Jupiter</item>
+        <item>Persons born on this day are
+		decidedly ambitious;
+		they are never satisfied by being in subordinate positions;
+		their aim is to rise in the world, to have control and authority over others.
+		They are excellent in the execution of commands;
+		they love order and discipline in all things;
+		they readily obey orders themselves,
+		but they also insist on having their orders obeyed.
+        </item>
+
+        <item>
+		You are an excellent teacher
+		and possess great leadership abilities
+		and are honest, direct and usually helpful.
+		On the other hand you may also be critical, unmotivated,
+		dictatorial, prone to exaggeration and lazy .#
+		Often rise to the very highest positions in any business,
+		profession or sphere in which they may be found.
+		They often excel in positions of authority in the army and navy,
+		in government, and in life generally; and especially in all posts of trust and responsibility,
+		as they are extremely conscientious in carrying out their duties.#
+		In your lifetime you may face some challenges
+		and if so you need to have faith in your inner power.
+		If you can maintain this you will be able to surmount
+		any problems you may face.#
+		You will benefit from travel
+		so do as much of this as you can
+		likely to take up residence far from the land of your birth.#
+		Usually attractive not just to the opposite
+		sex but your own sex as well,
+irrespective of your sexual orientation,
+but usually a loyal partner and expect the same in return. #
+If you focus on physical and worldly matters like money for example,
+ you may be dogged by failure .
+ You you need to concentrate on spiritual matters and the
+ inner ‘you’ and then watch as your outer world transforms.
+
+ </item>
+
+        <item>For" lucky" colors they should wear some shade of mauve, violet, or purple,
+		or some touch of these colors should always be with them;
+		also in the rooms in which they live..#
+Their" lucky" stone is the amethyst. They should always have one
+on their persons, and if possible, wear it next their skin.
+ </item>
+    </string-array>
+    <string-array name="MercuryIcons">
+        <item>@drawable/mercury</item>
+        <item>@drawable/mecbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="Mercuryfactsname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="MercuryFacts">
+        <item>Mercury ( Number 5 )</item>
+        <item>Mercury (Number 5)</item>
+        <item> Energetic ,Keen-witted, intuitive, restless, perceptive, analytical</item>
+        <!--Attribiutes -->
+        <item> Gemini and Virgo </item>
+        <!--Star sign Closest to -->
+        <item>Gambling, jumping to conclusions, pretence, quick-temper, stress
+	</item>
+        <!--Watch out for -->
+        <item> 5th, 14th, or 23rd of any month
+		</item>
+        <!--lucky days -->
+        <item>Wednesday and Friday</item>
+        <!--lucky day of the week -->
+        <item> A practical appliance or tool </item>
+        <!--Gifts -->
+        <item>Light grey, white, and glistening materials</item>
+        <!--Lucky colors -->
+        <item>Diamond</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Mecury_array">
+        <item>The Day of Mecury</item>
+        <item>Persons born on this day are mentally very highly strung. They live on their nerves and appear to crave excitement.They are quick in thought and decisions, and impulsive in their actions. They detest any stressful kind of work and seem naturally to drift into all methods of making money quickly. They have a keen sense of making money by inventions and new ideas. They are born speculators, prone to Stock Exchange transactions, and generally are willing and ready to run risks in all they undertake.
+        </item>
+
+        <item>
+		You are incredibly adaptive and will make the most of whatever life hands you. You need variety and change but you need to watch that this doesn’t get out of hand and you change things for change’s sake – otherwise you can end up in trouble #
+		You need to take time to develop your ideas. As you usually have lots of them it is also advisable that you learn to focus on one and see it through to completion rather than scatter your energy. Otherwise you will end up achieving nothing #
+		You are usually a person who enjoys city life and are therefore likely to reside in one more than other numbers. You also enjoy being seen in the right places with the ‘right’ people #
+		You are likely to cross paths with crooks, con artists and criminals and possibly socially, so be careful #
+		 You may have more than one marriage in your lifetime and you are also the number most likely to out-live your partner so do make provision as you get older for what you would do if you spend the final years of life alone. #
+You will make do with what you have at the time and wait and work for things to improve
+
+ </item>
+
+        <item>Your "lucky" colors are all shades of light grey, white, and glistening materials, and they should wear dark colors as rarely as possible..#
+Your "lucky" stone is the diamond, and all glittering or shimmering things; also ornaments made of platinum or silver, and, if possible, they should wear a diamond set in platinum next their skin.
+ </item>
+    </string-array>
+    <string-array name="UraIcons">
+        <item>@drawable/uranus</item>
+        <item>@drawable/urabig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="Urafactsname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="UraFacts">
+        <item>Uranium ( Number 4 )</item>
+        <item>Uranium (Number 4)</item>
+        <item>Opinionated, rebellious, distinct character</item>
+        <!--Attribiutes -->
+        <item> Aquarius.</item>
+        <!--Star sign Closest to -->
+        <item>low self esteem, accidents, fights, excessive spending, isolation
+	</item>
+        <!--Watch out for -->
+        <item>4th, 13th, 22nd, and 31st of any month,
+		</item>
+        <!--lucky days -->
+        <item>Saturday, Sunday, and Monday,</item>
+        <!--lucky day of the week -->
+        <item>Gifts pertaining to arts and nature</item>
+        <!--Gifts -->
+        <item>Electric blues and grey </item>
+        <!--Lucky colors -->
+        <item>Sapphire</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Ura_array">
+        <item>The Day of Uranius</item>
+        <item>Persons born on this day  have a distinct character of their own.\nThey seem quite naturally to take a different view of anything that is presented to their minds. They instinctively rebel against rules and regulations, and if they can have their way they reverse the order of things, even in communities and governments. They are inclined to be attracted to social questions and reforms of all kinds, and are very positive and unconventional in their views and opinions.
+        </item>
+
+        <item> You are also likely to be attracted to someone who is very different to you or even eccentric in some way. However, relationships can end as quickly as they begin for you. #Your key to finding longevity in relationships is to have a cause or a project in common with your partner that binds the two of you together.#
+		You are also unlikely to stay living in the same location all your life. If you have siblings communication or staying in touch with them may be difficult.#
+		 You rebel against rules and regulations, and if you can have your way you reverse the order of things, even in communities and governments. You often rebel against constitutional authority and set up new rules and regulations either in domestic or public life #
+		 Your key to utilising the power of your number is to own your individuality and also to be as organised and self-disciplined as possible#
+		  Reach out and make as many friends as possible and take care not to become a recluse as you get older. The world needs your unique gifts so share them!#
+		  You need to plan for that rainy day even when you are in a sunny period.#
+		  You have many unique talents which you may dismiss or underestimate and you need to understand that in your seemingly crazy ideas lie the keys to your success, so please explore them.
+
+
+ </item>
+
+        <item>For "lucky" colors, "half-shades," "half-tones," or "electric colors." "Electric blues" and grey seem to suit you best #
+
+Your " lucky" stone is the sapphire, light or dark, and if possible they should wear this stone next their skin.
+ </item>
+    </string-array>
+    <string-array name="VenIcons">
+        <item>@drawable/venus</item>
+        <item>@drawable/vebg</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="Vensname">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="VenFacts">
+        <item>Venus ( Number 6 )</item>
+        <item>Venus ( Number 6)</item>
+        <item>Magnetic, devoted, unyielding, artistic</item>
+        <!--Attribiutes -->
+        <item> Taurus and Libra </item>
+        <!--Star sign Closest to -->
+        <item>Stubbornness, pride, conceit
+	</item>
+        <!--Watch out for -->
+        <item>6th, 15th, 24th of any month
+		</item>
+        <!--lucky days -->
+        <item>Saturday, Sunday, and Monday,</item>
+        <!--lucky day of the week -->
+        <item>Gifts pertaining to nature,luxury or Music.</item>
+        <!--Gifts -->
+        <item>Shades of blue, rose or pink </item>
+        <!--Lucky colors -->
+        <item>Emeralds</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Ven_array">
+        <item>The Day of Venus</item>
+        <item>
+		They are very determined in carrying out their plans, and may, in fact, be deemed obstinate and unyielding,except when they themselves become deeply attached: in such a case they become devoted slaves to those they love.Although they are considered influenced by the Planet Venus, yet as a rule theirs is more the" mother love" than the sensual. They lean to the romantic and ideal in all matters of the affections.
+		When roused by anger they will brook no opposition, and will fight to the death for whatever person or cause they espouse, or out of their sense of duty.
+        </item>
+
+        <item>
+		You are capable of tremendous patience when it comes to achieving the things you want and when you set goals you are unlikely to quit until you have what you set out to achieve. But you can also be a stubborn as a mule when you want to be#
+		Because you have such an agreeable nature, others can take advantage of you and you need to be alert for this. #
+		You may attract a boss who continues to pile work on you without offering you any additional rewards or you may find partners or others treat you like a doormat #
+		You need love and attention and if you get it, you will bloom. However, if you don’t receive this you will become thorny, feel sorry for yourself and take refuge in complaining and being cynical. There is no other number more angry, sarcastic or sceptical than a 6 who feels they have been denied love#
+		You have a strong artistic flair and you may be drawn to a creative profession. If not you will certainly use any creative talents you possess to create a beautiful home environment. You also love throwing parties and mingling with the ‘beautiful’ people.#
+		Love however can be a serious business for you one way or another. You may choose a partner who can provide you with the security you crave financially as well as emotionally.#
+		You are usually well liked and find that many people will help them during their lifetime – both professionally and personally. Don’t be too stubborn to accept it when it is offered.You will also find you attract very spiritual people throughout your lifetime. #
+		if you are feeling ‘stuck’ at any point in your life you can ‘un-stick’ yourself simply by releasing any attachment to the past in order to let the future in. A Number 6 brings with it so much promise – and no matter how long it takes, these promises will always be fulfilled.
+
+
+ </item>
+
+        <item>For "lucky" colors,all shades of blue, from the lightest to the darkest, also all shades of rose or pink, but they should avoid wearing black or dark purple. #
+
+Your " lucky" stone is the turquoise, and, as far as possible, they should wear one, or a piece of turquoise matrix, next their skin.
+ </item>
+    </string-array>
+    <string-array name="NeptuneIcons">
+        <item>@drawable/neptune</item>
+        <item>@drawable/nepbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="NeptuneName">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="Neptunefacts">
+        <item>Neptune ( Number 7 )</item>
+        <item>Neptune( Number 7)</item>
+        <item>Highly intuitive and empathic, independent, original </item>
+        <!--Attribiutes -->
+        <item> Pisces </item>
+        <!--Star sign Closest to -->
+        <item>Debt, addiction ,religious fanaticism, dreams, occultism,
+	</item>
+        <!--Watch out for -->
+        <item>7th, 16th, or 25th of any month
+		</item>
+        <!--lucky days -->
+        <item>Sunday and Monday</item>
+        <!--lucky day of the week -->
+        <item>Gifts pertaining to love ,romance or Jewellery, art, history and religion </item>
+        <!--Gifts -->
+        <item>Shades of green, pale shades, also white and yellow</item>
+        <!--Lucky colors -->
+        <item>Moonstone</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Neptune_array">
+        <item>The Day of Neptune</item>
+        <item>
+
+They are very independent, original, and have strongly marked individuality.\n
+At heart they love change and travel, being restless in their natures.
+            If they have the means of gratifying their desires they visit
+            foreign countries and become keenly interested in the affairs of far-off lands.
+            They devour books on travel and have a wide universal knowledge of the world at large.\n
+They often make extremely good writers, painters, or poets,
+            but in everything they do, they sooner or later
+            show a peculiar philosophical outlook on life that tinges all their work.
+        </item>
+
+        <item>
+		  \t You need to hold true to your own vision for how you make it however and refuse to be swayed by others. #
+		\tYou are very sensitive to the needs of others but you need to monitor your desire
+            to help as there is a real possibility that instead of helping them you become part of their story#
+		\t You have very peculiar ideas about religion, and dislike to follow the beaten track; you create a religion of your own, but one that appeals to the imagination and based on the mysterious.
+#
+		\t Most of you usually have remarkable dreams and a great leaning to occultism; they have the gift of intuition, clairvoyance, and a peculiar quieting magnetism of their own that has great influence over others. #
+		\tOthers may  see you as glamorous and even slightly mysterious which just adds to your charisma – whether you see yourself that way is another matter entirely as often you hide your feelings due to the fact you are afraid of being hurt #
+\tYou can be extremely artistically gifted and this is another area in which you can excel or at least derive a great deal of pleasure in as a hobby. But there is a tendency again to hide what you are doing. due to your fear criticism and rejection.dare to try sometimes#
+\t In terms of relationships, you need a tender, sensitive partner but whether you find this or not is another matter. Often you can end up with a partner who has problems with either drugs, gambling, alcohol or even a criminal record.#
+Take note of those you meet near water or on your travels as there is a real possibility they are linked to you on a deep soul level. #
+ </item>
+
+        <item>For "lucky" colors, all shades of green, pale shades, also white and yellow, and they should avoid all heavy dark colors as much as possible. #
+
+Their" lucky" stones are moonstones, "cat's-eyes," and pearls, and if possible, they should wear a moonstone next to their skin
+ </item>
+    </string-array>
+    <string-array name="SaturnIcons">
+        <item>@drawable/saturn</item>
+        <item>@drawable/satbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="SaturnName">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="Saturnfacts">
+        <item>Saturn ( Number 8 )</item>
+        <item>Saturn( Number 8)</item>
+        <item> Organised, reliable, disciplined and ambitious</item>
+        <!--Attribiutes -->
+        <item> Capricorn </item>
+        <!--Star sign Closest to -->
+        <item>Enemies, fanaticism, arguments, overspending
+	</item>
+        <!--Watch out for -->
+        <item>8th, 17th, 26th of any month
+		</item>
+        <!--lucky days -->
+        <item>Saturday </item>
+        <!--lucky day of the week -->
+        <item>Gifts pertaining to physical comfort(A soft thick bathrobe).</item>
+        <!--Gifts -->
+        <item>Shades of dark grey, black, dark blue, and purple</item>
+        <!--Lucky colors -->
+        <item>Black diamond</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Saturn_array">
+        <item>The Day of Saturn</item>
+        <item>
+
+These Persons are invariably much misunderstood in their lives, and perhaps for this reason they feel intensely lonely at heart,posses have deep and very intense natures, great strength of individuality. They act or as the instrument of Fate for others. If at all religious they go to extremes and are fanatics in their zeal. In any cause they take up, they attempt to carry it through in spite of all argument or opposition, and in doing so they generally make bitter and relentless enemies.
+        </item>
+
+        <item>
+		 You possess great ambition and the drive to succeed so with some effort you should be able to rise to the top in whatever career you have chosen, although you may have to put in a lot of hard work first but it is guaranteed for you if you put in the effort #
+		 However, on the way there you may often feel like giving up . Please don’t and also if you do feel depressed, please don’t shut yourself off from others. Instead, get involved in social issues or helping those less fortunate than yourself. It helping others you will help yourself.#
+		 You may be attracted to one of the ‘established’ professions – banking, medicine, law and you would also do well in government or social issues. Many people born under an 8 establish their own business. #
+		You can either go around and around in circles because you fear change or climbing higher and higher – it’s up to you to decide which one it will be! #
+		You can succeed at anything you put your mind to and will, no matter what obstacles are placed in your path. However, if you go into business with a partner please ensure that you know them well and that you make it clear what happens to the business should one of you want to leave it.#
+		In relationships you are genuine and steadfast and expect the same in return. There is every indication you will out-live your partner and there may be a big age difference between#
+		Many people you meet during your life will determine your future success and this may not be obvious when you first meet them. Your number is all about connecting so open up and do that and success can and will be yours!#
+ </item>
+
+        <item> ALL shades of dark grey, black, dark blue, and purple. If number 8 persons were to dress in light colors they would look awkward, and as if there were something wrong with them. #
+
+Their "lucky" stones are the amethyst and the dark toned sapphire, also the black pearl or the black diamond
+ </item>
+    </string-array>
+    <string-array name="MarsIcons">
+        <item>@drawable/mars</item>
+        <item>@drawable/marsbig</item>
+        <item>@drawable/atrib</item>
+        <item>@drawable/star</item>
+        <item>@drawable/danger</item>
+        <item>@drawable/lucky</item>
+        <item>@drawable/days</item>
+
+        <item>@drawable/gifts</item>
+        <item>@drawable/color</item>
+        <item>@drawable/jewels</item>
+        <item>@drawable/tres</item>
+        <item>@drawable/gold</item>
+        <item>@drawable/tresure</item>
+
+    </string-array>
+    <string-array name="MarsName">
+        <item>Name</item>
+        <item>Group</item>
+        <item>Attributes</item>
+        <item>Star Sign Closest to</item>
+        <item>Things to Watch out For</item>
+        <item>Lucky days of The Month</item>
+        <item>Lucky days of the week</item>
+        <item>Gifts</item>
+        <item>Lucky Colors</item>
+        <item>Lucky Jewels</item>
+
+    </string-array>
+    <string-array name="Marsfacts">
+        <item>Mars ( Number 9 )</item>
+        <item>Mars( Number 9)</item>
+        <item> Organised, reliable, disciplined and ambitious</item>
+        <!--Attribiutes -->
+        <item>  Aries and Scorpio  </item>
+        <!--Star sign Closest to -->
+        <item>Excesses of temper and violence, Financial crises, impulsiveness
+	</item>
+        <!--Watch out for -->
+        <item>9th, 18th, 27th of any month
+		</item>
+        <!--lucky days -->
+        <item>Tuesday(*), Thursday, and Friday </item>
+        <!--lucky day of the week -->
+        <item>Gifts that are be secretive and alluring</item>
+        <!--Gifts -->
+        <item>Crimson or red</item>
+        <!--Lucky colors -->
+        <item>Ruby, Garnet, and Blood stone</item>
+
+        <!--Lucky jewels -->
+
+    </string-array>
+    <string-array name="Mars_array">
+        <item>The Day of Mars</item>
+        <item>
+
+The number 9 representing man and everything to do with the physical and material plane, is the number of force, energy, destruction and war in its most dominant quality. In its relation to ordinary life it denotes energy, ambition, leadership, domination. It represents iron, the metal from which the weapons of warfare are made, and is considered a fortunate number to be born under, provided the man or woman does not ask for a peaceful or monotonous life, and can control their nature in not making enemies
+        </item>
+
+        <item>
+		You are likely to lead a life that appears ‘larger than life’ to those around you.You would benefit from developing your communication skills#
+		You will either be an inspiration to others or get bogged in jealousy over another’s success, be highly intuitive or else oblivious.#
+		You are however a natural leader and will fight for what you think is right. You can however be undone by impatience and this is something you need to guard #
+
+		 They are resourceful and excellent in organization, but they must have the fullest control; if not, they lose heart and stand aside and let things go to pieces. For affection and sympathy they will do almost anything, and the men of this number can be made the greatest fools of, if some clever woman gets pulling at their heartstrings.
+
+ #
+		They strongly resent criticism, and even when not conceited, they have always a good opinion of themselves, brooking no interference with their plans. They like to be "looked up to" and recognized as "the head of the house.#
+		Their greatest dangers arise from foolhardiness and impulsiveness in word and action. They are also peculiarly prone to accidents from fire and explosions, and rarely get through life without injury, from such causes. As a general rule they go under many operations by the surgeon's knife.#
+		They are 'fighters in all they attempt in life. They usually have difficult times in their early years, but generally they are, in the end, successful by their grit, strong will, and determination. #
+		You need a partner whose appetites match your own. Yes, you want sex and lots of it- but it has to be sex with depth. Relationships may not always run smoothly for you and this can be because you can be impulsive when it comes to choosing a partner, Unless you find a partner who matches passion in the bedroom and your energy out of it, your relationships will be short-lived so take it slow#
+		You have a mind that is eager to learn and explore and you can turn this to your advantage. In terms of a career you should think about teaching, writing, debating or lecturing.#
+		You have the ability to make money quickly or when you need it. However, you need to stay away from hasty or impulsive financial speculations #
+		Before lending anyone money you should try pointing them in a direction where they can help themselves. If you do end up lending people money then only do so if you can afford to write off the debt as it is unlikely you will see it again.#
+		Life may throw you a few problems but you are a survivor. You are a loyal partner and friend but a bitter enemy and if someone betrays you, you will never forget #
+		Your number is considered by many a sacred number as if you multiply it by any number it reduces back upon itself(9*2 =18 (8+1)).#You posses qualities that belong to no-one else. These are your gifts and you are here to use them.
+		</item>
+        <item>All shades of crimson or red, also all rose tones and pink.. #
+
+Number 9 persons " lucky" stones are the Ruby, Garnet, and Blood stone, and they should wear one of these stones next their skin.
+ </item>
+    </string-array>
+    <string name="title_activity_load">LoadActivity</string>
+    <string name="Disclaimer">"Note that the details and info in this application do not serve as a definite way for living,merely a guide to show you a glimpse of who you are
+         The Author of this application takes no responsibility for actions taking due to information gotten from this application"
+   </string>
+    <string name="thanks">\nSpecial thanks to the authors of http://www.astrotruths.com and http://www.micheleknight.com</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6705157772291148/7093190317</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab">Guru</string>
+    <string name="title_activity_about">About Date-Guru</string>
+</resources>
